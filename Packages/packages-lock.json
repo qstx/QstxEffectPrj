@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.qstx.rendererfeature": {
+      "version": "file:com.qstx.rendererfeature",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.render-pipelines.core": "14.0.9",
+        "com.unity.textmeshpro": "3.0.7"
+      }
+    },
     "com.unity.burst": {
       "version": "1.8.19",
       "depth": 1,

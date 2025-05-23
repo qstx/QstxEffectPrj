@@ -1,0 +1,3 @@
+[submodule "Packages/com.qstx.rendererfeature"]
+	path = Packages/com.qstx.rendererfeature
+	url = git@github.com:qstx/com.qstx.rendererfeature.git
